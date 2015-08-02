@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Contacts</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_people_details">PeopleDetailsActivity</string>
+    <string name="title_activity_add">AddActivity</string>
+    <string name="title_activity_edit">EditActivity</string>
+</resources>
